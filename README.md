@@ -16,6 +16,10 @@
 ## Project Description
 Write a short description of your project. Write 1-2 sentences about what what you chose to build and why. 
 
+El usuario tiene que adivinar la combinación, la cual esta compuesta de cuatro dígitos del cero  al nueve, los cuales son generados por el sistema de forma aleatoria.
+Cada vez que el usuario ingresa un número, el sistema le  indica si el numero ingresado es correcto o incorrecto.
+Se tienen cuatro rondas para adivinar la combinación.
+
 <a name="workflow"></a>
 
 ## Workflow
@@ -26,7 +30,7 @@ Outline the workflow you used in your project. What were the steps you went thro
 
 ## Organization
 How did you organize yourself? Did you use any tools?
-
+Fue un trabajo en equipo, en donde trabajamos partes del codigo y nos dabamos, en caso de encontrar algun problema con el codigo trabajamos en conjunto para solucionarlo.
 <a name="links"></a>
 
 ## Links
